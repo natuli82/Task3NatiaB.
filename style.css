@@ -14,3 +14,6 @@ a{text-decoration: none;
 img{max-width: 100%;
 max-height: auto;
 }
+.nav-items{
+    display: inline;
+}
