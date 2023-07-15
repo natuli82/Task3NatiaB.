@@ -14,6 +14,15 @@ a{text-decoration: none;
 img{max-width: 100%;
 max-height: auto;
 }
-.nav-items{
-    display: inline;
+
+  .main-content.description{
+    color:#090346
+    font-size:20 px
+    font: Inter
+    Weight: 400px;
+    Line height: 24.2 px;
+}
+.footer{
+    background-color: blue
+    font-color: white
 }
